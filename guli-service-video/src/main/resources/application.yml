@@ -1,0 +1,22 @@
+server:
+  port: 8003
+spring:
+  application:
+    name: service-video
+  profiles:
+    active: dev
+  servlet:
+    multipart:
+      max-file-size: 1024MB
+      max-request-size: 1024MB
+  cloud:
+    nacos:
+      discovery:
+        server-addr: 127.0.0.1:8848
+aliyun:
+  oss:
+    file:
+      keyid : LTAI5tP62pYEdvy89d7gE6Kp
+      keysecret: SxikTLrAGWizoSJUDaI1aHOFpS7qHz
+      bucketname: xxx-guli-1010
+      endpoint: oss-cn-beijing.aliyuncs.com

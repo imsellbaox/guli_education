@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding">
+    <file url="file://$PROJECT_DIR$" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/api_gatway" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/api_gatway/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/code-generator" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/code-generator/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/guli-common" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/guli-common/global-handler" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/guli-common/global-handler/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/guli-common/service-redis" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/guli-common/service-redis/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/guli-common/service-security" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/guli-common/service-security/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/guli-common/service-utils" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/guli-common/service-utils/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/guli-common/sevice-swag" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/guli-common/sevice-swag/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/guli-service-acl" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/guli-service-acl/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/guli-service-canal-client" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/guli-service-canal-client/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/guli-service-cms" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/guli-service-cms/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/guli-service-edu-backstage" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/guli-service-edu-backstage/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/guli-service-edu-frontstage" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/guli-service-edu-frontstage/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/guli-service-msm" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/guli-service-msm/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/guli-service-order" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/guli-service-order/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/guli-service-oss" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/guli-service-oss/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/guli-service-statistic" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/guli-service-statistic/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/guli-service-ucenter" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/guli-service-ucenter/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/guli-service-video" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/guli-service-video/src/main/java" charset="UTF-8" />
+  </component>
+</project>
